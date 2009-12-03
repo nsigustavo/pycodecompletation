@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pycodecompletation/__init__.py
+pycodecompletation.egg-info/PKG-INFO
+pycodecompletation.egg-info/SOURCES.txt
+pycodecompletation.egg-info/dependency_links.txt
+pycodecompletation.egg-info/entry_points.txt
+pycodecompletation.egg-info/not-zip-safe
+pycodecompletation.egg-info/top_level.txt
